@@ -1,0 +1,68 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(194, 226, 236);
+    color: #333;
+  }
+  
+  /* Estilos para el header */
+  header {
+    background-color: #4e9ce9;
+  }
+  
+  .navbar-nav .nav-item .btn {
+    color: rgb(188, 220, 241);
+  }
+  
+  /* Estilos para la sección principal */
+  main {
+    padding: 20px;
+  }
+  
+  .seccion {
+    margin-top: 20px;
+  }
+  
+  /* Estilos específicos para el formulario */
+  #formulario-institucion {
+    background-color: #d7f3b8;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  #btn-agregar {
+    margin-bottom: 15px;
+  }
+  
+  /* Estilos para la tabla */
+  .table {
+    background-color: #b2ee6c;
+    border-radius: 8px;
+  }
+  
+  .table th, .table td {
+    text-align: center;
+  }
+  
+  /* Estilos para las tarjetas de proyectos */
+  .card {
+    margin: 10px;
+    border-radius: 8px;
+  }
+  
+  /* Estilos para el pie de página */
+  footer {
+    background-color: #343a40;
+    color: rgb(33, 148, 243);
+    padding: 10px;
+  } card-img-top {
+    height: 200px; /* Ajusta según el tamaño deseado */
+    object-fit: cover; /* Mantiene la relación de aspecto sin distorsionar la imagen */
+  }
+  .accordion-body{
+    background-color: #a8e5a0;
+
+  }
+  .btn{
+    background-color: #3b744c;
+  }
